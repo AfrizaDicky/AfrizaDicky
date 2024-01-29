@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AfrizaDicky/AfrizaDicky/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Afriza Dicky Fadli Arrosyd</h1>
 <h3 align="center">I'm Electronics Engineering and Internet of Things Developer.</h3>
 
